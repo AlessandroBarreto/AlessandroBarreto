@@ -1,5 +1,4 @@
-## Hi there! I'm Alessandro Barreto
-## <a href="https://alessandro-barreto.netlify.app">My Personal Portfolio</a>
+## Hi there! I'm Alessandro Barreto <a href="https://alessandro-barreto.netlify.app">My Personal Portfolio</a>
 <div align="center">
   <a href="https://github.com/AlessandroBarreto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlessandroBarreto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
