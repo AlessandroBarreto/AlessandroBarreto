@@ -16,7 +16,7 @@
 ### 🚀 About me
 
 - 💼 Fullstack Software Engineer building web and mobile apps
-- ⚙️ Frontend with React, Next.js and React Native, backend with Node.js and PostgreSQL
+- ⚙️ Frontend with React, Next.js and React Native, backend with Node.js, Python, PostgreSQL and MongoDB
 - 🌐 More about my work on my [portfolio](https://alessandro-barreto.netlify.app)
 
 ### 🛠️ Tech stack
@@ -28,6 +28,7 @@
   <img alt="Next.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
   <img alt="Node.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img alt="PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img alt="MongoDB" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
