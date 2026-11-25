@@ -15,8 +15,8 @@
 
 ### 🚀 About me
 
-- 💼 Software Engineer working with React, Next.js and TypeScript
-- 🌱 Currently learning React Native and fullstack
+- 💼 Fullstack Software Engineer building web and mobile apps
+- ⚙️ Frontend with React, Next.js and React Native, backend with Node.js and PostgreSQL
 - 🌐 More about my work on my [portfolio](https://alessandro-barreto.netlify.app)
 
 ### 🛠️ Tech stack
