@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Alessandro Barreto 👋</h1>
 
 <p align="center">
-  Frontend developer building with React, and growing into React Native and fullstack.
+  Software Engineer
 </p>
 
 <p align="center">
@@ -15,10 +15,9 @@
 
 ### 🚀 About me
 
-- 🔭 Building a mobile **Expense Tracker** (Expo + Node.js + Fastify + PostgreSQL + Prisma)
-- 🌱 Learning **React Native** and **fullstack** development
-- 💼 Experienced with **React**, **Next.js** and **TypeScript**
-- 🌐 Check out my work on my [portfolio](https://alessandro-barreto.netlify.app)
+- 💼 Software Engineer working with React, Next.js and TypeScript
+- 🌱 Currently learning React Native and fullstack
+- 🌐 More about my work on my [portfolio](https://alessandro-barreto.netlify.app)
 
 ### 🛠️ Tech stack
 
@@ -35,16 +34,11 @@
   <img alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </p>
 
-### 📊 GitHub dashboard
+### 📊 GitHub stats
 
 <p align="center">
-  <img height="180" alt="Profile details" src="./profile-summary-card-output/dracula/0-profile-details.svg">
   <img height="180" alt="Stats" src="./profile-summary-card-output/dracula/3-stats.svg">
-</p>
-<p align="center">
   <img height="180" alt="Top languages" src="./profile-summary-card-output/dracula/2-most-commit-language.svg">
-  <img height="180" alt="Repos per language" src="./profile-summary-card-output/dracula/1-repos-per-language.svg">
-  <img height="180" alt="Productive time" src="./profile-summary-card-output/dracula/4-productive-time.svg">
 </p>
 
 ### 🐍 Contributions
